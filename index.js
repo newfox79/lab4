@@ -38,7 +38,7 @@ function randomOverage(min, max, step, n) {
 const t = 300 // с
 const T = 300 // k
 const p = 10e4 // Па
-const k = 1.38e-27 // Дж/к
+const k = 1.38e-24 // Дж/к
 const d = 0.01 // метр
 const h = 0.1 // метр
 const q_e = 1.6e-18
